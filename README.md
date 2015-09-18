@@ -6,22 +6,30 @@ Data Science Specialization - Getting and Cleaning Data
 
 
 
-###Description:
-
+## Brief Description:
 
 There is only one R script that needs to be run in order to output tidy_data.txt
 The R script contains all the comments to follow along what is being performed.
 In short, it reads the data, manipulates the dataset, subsets the data and performs Tidy operations.
 After all data cleaning is performed, it then writes tidy_data.txt into the local working directory.
 
+## Steps of the R script.
+
+1. Load libraries
+2. Extract all necessary files into separate variables
+3. Merge the data and labels into 1 data frame each
+4. Subset the data into variables only including mean or std. Change the colnames appropriately.
+5. Change label into descriptive words and merge to clean data
+6. Perform tidy operations to tidy the data
+7. Condense data by grouping and averaging
+8. Factoring data & lower casing activities
+9. Write data into txt format
 
 ###Requirements:
-
 
 - run_analysis.R must be in the same directory as the datasets when they are extracted
 
 ###Extracted files include:
-
 
 - 'README.txt'
 
