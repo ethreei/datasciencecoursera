@@ -1,14 +1,13 @@
+
+Data Science Specialization - Getting and Cleaning Data
 ==================================================================
-Data Science Specialization
-Getting and Cleaning Data
-==================================================================
-David Tran
-Course Project
-==================================================================
+### David Tran
+### Course Project
 
 
-Description:
-======================================
+
+###Description:
+
 
 There is only one R script that needs to be run in order to output tidy_data.txt
 The R script contains all the comments to follow along what is being performed.
@@ -16,13 +15,13 @@ In short, it reads the data, manipulates the dataset, subsets the data and perfo
 After all data cleaning is performed, it then writes tidy_data.txt into the local working directory.
 
 
-Requirements:
-======================================
+###Requirements:
+
 
 - run_analysis.R must be in the same directory as the datasets when they are extracted
 
-Extracted files include:
-=========================================
+###Extracted files include:
+
 
 - 'README.txt'
 
