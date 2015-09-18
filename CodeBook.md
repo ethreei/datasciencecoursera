@@ -1,12 +1,8 @@
-
-Data Science Specialization - Getting and Cleaning Data
+Getting and Cleaning Data - Course Project
 ==================================================================
 David Tran
-Course Project
 
-## Codebook:
-
-### Description:
+# Description:
 
 1. Load libraries
 2. Extract all necessary files into separate variables
@@ -18,9 +14,11 @@ Course Project
 8. Factoring data & lower casing activities
 9. Write data into txt format
 
-## Variables:
+# Variables:
 
-#### Features: This is referring to what feature is doing the recording
+#### Features: 
+This is referring to what feature is doing the recording
+
 1. tBodyAcc- 
 2. tGravityAcc- 
 3. tBodyAccJerk-
@@ -39,7 +37,9 @@ Course Project
 16. fBodyGyroMag
 17. fBodyGyroJerkMag
 
-#### Activity: This is referring to the activity that is occuring while measurements are being taken
+#### Activity: 
+This is referring to the activity that is occuring while measurements are being taken
+
 1. walking
 2. walking_upstairs
 3. walking_downstairs
@@ -47,13 +47,18 @@ Course Project
 5. standing
 6. laying
 
-#### Measurement: This is the measurement type
+#### Measurement: 
+This is the measurement type
+
 1. mean 	- 	Mean value
 2. sd 		-	Standard Deviation
 
-#### Axis: The plane in which the measurement is being taken
+#### Axis: 
+The plane in which the measurement is being taken
+
 1. X 		-	X Plane/axis
 2. Y 		-	Y Plane/axis
 3. Z 		-	Z Plane/axis
 
-#### Average: Values are the average of the measurement row; either average of the mean or average of the standard deviation. The units are measured in m/s or m/s^2 depending on the feature.
+#### Average: 
+Values are the average of the measurement row; either average of the mean or average of the standard deviation. The units are measured in m/s or m/s^2 depending on the feature.

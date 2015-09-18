@@ -1,8 +1,8 @@
 
-Data Science Specialization - Getting and Cleaning Data
+Getting and Cleaning Data - Course Project
 ==================================================================
 David Tran
-Course Project
+
 
 ## Brief Description:
 
